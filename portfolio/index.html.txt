@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Brandt's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Michael Brandt's Portfolio</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main>
+        <section class="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><a href="https://Negative-root.github.io/responsive-navbar">Responsive Navbar</a></li>
+                <li><a href="https://Negative-root.github.io/responsive-blog-layout">Responsive Blog Layout</a></li>
+                <li><a href="https://Negative-root.github.io/responsive-photo-gallery">Responsive Photo Gallery</a></li>
+                <li><a href="https://Negative-root.github.io/responsive-product-page">Responsive E-commerce Product Page</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Michael Brandt's Portfolio. All rights reserved.</p>
+    </footer>
+</body>
+</html>
